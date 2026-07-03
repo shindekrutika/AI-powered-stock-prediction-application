@@ -1,6 +1,6 @@
 # AI-powered-stock-prediction-application
 This web-based platform leverages machine learning algorithms, specifically Long Short-Term Memory (LSTM) neural networks, to analyze historical stock data and generate accurate price forecasts. The system provides price predictions for 7-day &amp; 30-day horizons, and actionable BUY/SELL/HOLD recommendations.
-![vedio_alt](Video.mp4)
+![vedio_alt](https://github.com/shindekrutika/AI-powered-stock-prediction-application/blob/5f84ba0cfd62477073a5dc1b96768836dc48e60d/Video.mp4)
 # Technology Stack:
  Frontend: React.js with Tailwind CSS
  Backend: Python FastAPI
